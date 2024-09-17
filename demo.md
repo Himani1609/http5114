@@ -10,4 +10,4 @@ This text is **bold**
 
 This text is _italics_
 
-This text is **bold** and _italics_.
+This text is **_bold and italics_**
