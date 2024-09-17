@@ -65,6 +65,7 @@ function test(){
 ## Tables
 
 |  Languages      |   Rating      |
+|-----------------|---------------|
 |  Javascript     |     7         |
 |   Python        |     5         |
 |    SQL          |    6          |
