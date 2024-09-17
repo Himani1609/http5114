@@ -74,7 +74,7 @@ function test(){
 
 ## GitHub Flavour
 
-> Note
+> [!Note]  
 > This is a note!
 
 
