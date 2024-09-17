@@ -51,15 +51,15 @@ This is a peaceful image of nature: ![Nature](nature.jpg)
 
 We can put inline code by using a tic.
 
-To add an image use an '<img>' tag.
+To add an image use an `<img>` tag.
 
 You can add multi-line code by using three tics and the name of the coding language.
 
-'''
+```
 function test(){
     console.log("test");
 }
-'''
+```
 
 
 
