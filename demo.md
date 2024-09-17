@@ -37,14 +37,30 @@ Checkout this website [Mathnasium](https://www.mathnasium.com/ca)
 Check out this website [Evalueserve](https://www.evalueserve.com/)
 
 
-# Images
-
+## Images
 
 This is a really cool toronto image: ![NathanPhilipsSquare](toronto.jpeg)
 
 This is an image of Cherry Blossom: ![CherryBlossom](cherryblossom.jpeg)
 
 This is a peaceful image of nature: ![Nature](nature.jpg)
+
+
+
+## Code
+
+We can put inline code by using a tic.
+
+To add an image use an '<img>' tag.
+
+You can add multi-line code by using three tics and the name of the coding language.
+
+'''
+function test(){
+    console.log("test");
+}
+'''
+
 
 
 
