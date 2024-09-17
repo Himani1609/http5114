@@ -40,6 +40,11 @@ Check out this website [Evalueserve](https://www.evalueserve.com/)
 # Images
 
 
+This is a really cool toronto image: ![NathanPhilipsSquare](toronto.jpeg)
+
+This is an image of Cherry Blossom: ![CherryBlossom](cherryblossom.jpeg)
+
+This is a peaceful image of nature: ![Nature](nature.jpg)
 
 
 
