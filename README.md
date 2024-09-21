@@ -1,14 +1,16 @@
-# http5114
+# Workshops in Web-Development
+## HTTP-5114
 
-Files from HTTP5114 course.
+This is repo of course HTTP-5114 Workshops in Web Development. 
+This will include all the assignments, labs and any practice files related to this course.
 
-I will be writing all the codes from this class here!
+Here is the link to learn of markdown cheat sheet :
+[Markdown_Cheat_Sheet](https://www.markdownguide.org/cheat-sheet/)
 
-## Starting a New Project
+>[!Note]  
+You can learn git commands from this resource : [Git_Cheat_Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
-1. Make a new repo on github.com
-2. Open your terminal
-3. Navigate your terminal to project destination
-4. Clone the repo
-5. Change directory into the new folder
-6. Open VSCode and point it to the same folder.
+>Following is a code sample of git.
+```git
+git --version
+```
