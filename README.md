@@ -1,6 +1,8 @@
 # Workshops in Web-Development
 ## HTTP-5114
 
+<img src=./github.png alt="GitHub" width="200" height="150">
+
 This is repo of course HTTP-5114 Workshops in Web Development. 
 This will include all the assignments, labs and any practice files related to this course.
 
